@@ -1,0 +1,72 @@
+>* Food quality is critical for food SAFETY.
+> Promoting high fruit quality requires using sustainable
+  farming practices, implementing food safety regulations, and promoting healthy eating
+  habits.
+> The produce industry is highly competitive, and consumers are more discerning
+  than ever, demanding high-quality fruits.
+> reputation of producers and distributors depends on the
+ quality of their products
+> Consumers who are satisfied with the quality of fruits are
+ more likely to become repeat customers and recommend the products to others, which can
+ help to build a strong brand image and increase sales
+> poor quality prone to contamination, leading to foodborne illness, damaging industry reputation.
+> good food benefits:
+  1. taste
+  2. nutrition value
+  3. safety
+  4. appealing
+  5. can be incorporated into a healthy diet.
+> Fruit quality impacts the entire supply chain, from producers to distributors to retailers.
+> high-quality fruits are more
+ likely to be sold at premium prices, increasing the value of the entire supply chain.(so using this software it might be helpful for people to choose good food at their affordable prices )
+> factors effecting, determining fruit quality:
+  1. growing condition(soil quality, irrigation, pest management)
+  2. harvesting methods, time(loss of aroma, taste, nutrients, spoilage)
+  3. transportation and storage(optimal conditions )
+> TECHNOLOGIES:
+  - IMAGE BASED
+  - computer vision
+  - ML
+  - it was to intorduce "general ml" model even thught it took stand in different corners.
+  - ViT(vision transformer) [ neural network architecture.
+  - transformers initially used for NLP(natural language processor)
+  - vit:
+     1. image divided into fixed patches
+     2. these pacthes flatened 
+     3. linearly pojected into a lower dimensional space, creating sequence of embeddings
+     4. these embeddings are fed into "multi head attention"
+     5. the step 4 makes the network to go throught each and every patch and obtain      relation between every patch
+     6. self attetnion followed by feedforward NN (process embeddings, output class probabilites)
+  - self attetnion alternative for traditional CNN(image classification task)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
